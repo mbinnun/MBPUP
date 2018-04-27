@@ -1,7 +1,5 @@
-# MBPUP
-===================================================================================
 MBPUP Linux - remasterable live linux desktop - a fork of Bionic Dog (Ubuntu) 18.04
-===================================================================================
+=
 
 MBPUP Linux is a linux disro remastered by MBinnun, based on the BionicDog Linux distro (which is itself a remastering of Ubuntu Bionic Beaver 18.04).
 
