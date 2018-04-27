@@ -13,6 +13,7 @@ Another advantage of MBPUP is the ability to install a functional desktop "as is
 ** Note: because the ISO images of the release were too large to store on a git, I had to store them on my google drive. Feel free to download from there (links are attached).
 
 Download MBPUP 32bit version ISO image from:
+
 https://drive.google.com/open?id=1scuMWt2z6605jwv3_xIzPvm5OhndMyhx
 
 
