@@ -8,3 +8,8 @@ Unlike BionicDog and any other Puppy-like distro, MBPUP supplies a full featured
 Its goal is to have a fully functional desktop from a live CD/USB containing fully supported firmware, but also to be super easy to remaster (so you'll be able to create as many "versions" of your desktop as you like).
 
 Another advantage of MBPUP is the ability to install a functional desktop "as is" to the hard drive (either a standard installation or a frugal one).
+
+Download MBPUP 32bit version from:
+https://drive.google.com/open?id=1scuMWt2z6605jwv3_xIzPvm5OhndMyhx
+
+
