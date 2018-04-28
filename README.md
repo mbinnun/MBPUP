@@ -16,4 +16,6 @@ Download MBPUP 32bit version ISO image from:
 =
 https://drive.google.com/open?id=1scuMWt2z6605jwv3_xIzPvm5OhndMyhx
 
-
+Download MBPUP 64bit version ISO image from:
+=
+https://drive.google.com/open?id=12QiuC9ZQhZhDbJnVtCSz6sgcVmzaVnUC
