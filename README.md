@@ -29,7 +29,7 @@ Ever wanted to run a VM on a new machine without installing any additional softw
 MBPUP-VM is an MBPUP distro with embedded virtualization software such as VMware-Player, VirtualBox and QEMU.<br />
 Only run the live system and you'll able to run any VM you like without any additional installation.
 
-**Note:** The kernel on this release was updated to 4.15.0-20 and linux-headers are installed.
+**Note:** The kernel on this release is updated to 4.15.0-20 and linux-headers are installed.
 
 Download MBPUP-VM version 1.1 ISO image from:
 -
