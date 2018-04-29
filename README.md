@@ -39,4 +39,4 @@ Known issues:
 =
 On the 64bit distros of MBPUP, sometimes the PcManFM file manager crashes immediately after the user login.
 -
-** *Resolution:* **<br />run **sudo rm /var/crash/\*** from the terminal and reload PcManFM. You're not supposed to experience another crash till the end of the session.<br /><br />***Another option:***<br />use **Nautilus** as you primary file manager
+**Resolution:**<br />run **sudo rm /var/crash/\*** from the terminal and reload PcManFM. You're not supposed to experience another crash till the end of the session.<br /><br />**Another option:**<br />use **Nautilus** as you primary file manager
