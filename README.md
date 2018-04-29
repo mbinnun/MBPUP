@@ -10,7 +10,7 @@ Its goal is to have a fully functional desktop from a live CD/USB containing ful
 Another advantage of MBPUP is the ability to install a functional desktop "as is" to the hard drive (either a standard installation or a frugal one).
 
 
-**Note:** because the ISO images of the release were too large to store on a git, I had to store them on my google drive. Feel free to download from there (links are attached).
+**Note:** Because the ISO images of the release were too large to store on a git, I had to store them on my google drive. Feel free to download from there (links are attached).
 
 Download MBPUP 32bit version 1.0 ISO image from:
 -
@@ -29,7 +29,7 @@ Ever wanted to run a VM on a new machine without installing any additional softw
 MBPUP-VM is an MBPUP distro with embedded virtualization software such as VMware-Player, VirtualBox and QEMU.<br />
 Only run the live system and you'll able to run any VM you like without any additional installation.
 
-**Note:** the kernel on this release was updated to 4.15.0-20 and linux-headers are installed.
+**Note:** The kernel on this release was updated to 4.15.0-20 and linux-headers are installed.
 
 Download MBPUP-VM version 1.1 ISO image from:
 -
@@ -41,6 +41,6 @@ Known issues:
 =
 On the 64bit distros of MBPUP, sometimes the PcManFM file manager crashes immediately after the user login.
 -
-**Resolution:**<br />run **sudo rm /var/crash/\*** from the terminal and reload PcManFM.<br />You're not supposed to experience additional crashes till the end of the session.
+**Resolution:**<br />Run **sudo rm /var/crash/\*** from the terminal and reload PcManFM.<br />You're not supposed to experience additional crashes till the end of the session.
 
-**Another option:**<br />use *Nautilus* as your primary file manager.
+**Another option:**<br />Use *Nautilus* as your primary file manager.
