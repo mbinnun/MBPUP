@@ -10,11 +10,11 @@ Its goal is to have a fully functional desktop from a live CD/USB containing ful
 Another advantage of MBPUP is the ability to install a functional desktop "as is" to the hard drive (either a standard installation or a frugal one).
 
 
-Download MBPUP 32bit version 1.2 ISO image from:
+Download MBPUP 32bit version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP32-v1.2-20180501.iso
 
-Download MBPUP 64bit version 1.2 ISO image from:
+Download MBPUP 64bit version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.iso
 
@@ -29,7 +29,7 @@ Just run the live system and you'll able to load any VM you like without any add
 
 **Note:** The kernel on this release is updated to 4.15.0-20 and linux-headers are installed.
 
-Download MBPUP-VM version 1.2 ISO image from:
+Download MBPUP-VM version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64VM-v1.2-20180502.iso
 
