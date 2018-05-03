@@ -10,6 +10,10 @@ Its goal is to have a fully functional desktop from a live CD/USB containing ful
 Another advantage of MBPUP is the ability to install a functional desktop "as is" to the hard drive (either a standard installation or a frugal one).
 
 
+***Release notes of version 1.2***<br />
+https://github.com/mbinnun/MBPUP/releases/tag/V1.2
+
+
 Download MBPUP 32bit version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP32-v1.2-20180501.iso
@@ -17,10 +21,6 @@ https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP32-v1.2-20180501.is
 Download MBPUP 64bit version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.iso
-
-
-***Release notes of version 1.2***<br />
-https://github.com/mbinnun/MBPUP/releases/tag/V1.2
 
 ---------------------------------------
 
