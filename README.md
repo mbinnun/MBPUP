@@ -10,15 +10,13 @@ Its goal is to have a fully functional desktop from a live CD/USB containing ful
 Another advantage of MBPUP is the ability to install a functional desktop "as is" to the hard drive (either a standard installation or a frugal one).
 
 
-**Note:** Because the ISO images of the release were too large to store on a git, I had to store them on my google drive. Feel free to download from there (links are attached).
-
-Download MBPUP 32bit version 1.0 ISO image from:
+Download MBPUP 32bit version 1.2 ISO image from:
 -
-https://drive.google.com/open?id=1scuMWt2z6605jwv3_xIzPvm5OhndMyhx
+https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP32-v1.2-20180501.iso
 
-Download MBPUP 64bit version 1.1 ISO image from:
+Download MBPUP 64bit version 1.2 ISO image from:
 -
-https://drive.google.com/open?id=1TYxeIz3ReJCHHZoQn9MdtML43x2YTEqH
+https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.iso
 
 ---------------------------------------
 
@@ -31,16 +29,16 @@ Just run the live system and you'll able to load any VM you like without any add
 
 **Note:** The kernel on this release is updated to 4.15.0-20 and linux-headers are installed.
 
-Download MBPUP-VM version 1.1 ISO image from:
+Download MBPUP-VM version 1.2 ISO image from:
 -
-https://drive.google.com/open?id=1LVT792OPPVGmv4GVABHvIFLd2syyuGMW
+https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64VM-v1.2-20180502.iso
 
 ----------------------------------------
 
 Known issues:
 =
-On the 64bit distros of MBPUP, sometimes the PcManFM file manager crashes immediately after the user login.
+On v1.2 release, sometimes PcManFM file manager crashes immediately after the user login.
 -
 **Resolution:**<br />Run **sudo rm /var/crash/\*** from the terminal and reload PcManFM.<br />You're not supposed to experience additional crashes till the end of the session.
 
-**Another workaround:**<br />Use *Nautilus* as your primary file manager.
+**Workaround:**<br />Use *Nautilus* as your primary file manager.
