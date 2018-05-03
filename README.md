@@ -18,6 +18,9 @@ Download MBPUP 64bit version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.iso
 
+**Release notes of version 1.2**<br />
+https://github.com/mbinnun/MBPUP/releases/tag/V1.2
+
 ---------------------------------------
 
 MBPUP-VM - Portable virtualization distro
