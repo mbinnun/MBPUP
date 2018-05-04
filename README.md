@@ -59,6 +59,6 @@ Known issues:
 =
 On v1.2 release, sometimes PcManFM file manager crashes immediately after the user login.
 -
-**Resolution:**<br />Run **sudo rm /var/crash/\*** from the terminal and reload PcManFM.<br />You're not supposed to experience additional crashes till the end of the session.
+**Resolution:**<br />Simply run **sudo rm /var/crash/\*** from the terminal and reload PcManFM.<br />You're not supposed to experience additional crashes till the end of the session.
 
 **Workaround:**<br />Use *Nautilus* as your primary file manager.
