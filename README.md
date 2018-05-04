@@ -28,7 +28,7 @@ MBPUP-TVDESK - OS for streamers and office desktops
 =
 
 Need additional desktop functionality?<br />
-MBPUP-TVDESK includes extra tools, such as: LibreOffice, Gimp, VLC and KODI.
+MBPUP-TVDESK includes extra tools, such as: LibreOffice, Gimp, Google Chrome, VLC and KODI.
 
 Download MBPUP-TVDESK 32bit version 1.2 ISO image:
 -
