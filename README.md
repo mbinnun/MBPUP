@@ -10,6 +10,14 @@ Its goal is to have a fully functional desktop from a live CD/USB containing ful
 Another advantage of MBPUP is the ability to install a functional desktop "as is" to the hard drive (either a standard installation or a frugal one).
 
 
+***Remaster live and easily***<br />
+The live system of MBPUP is remasterable without touching the hard drive! All you need to do is:<br />
+1) Boot the live system, install packages and do any changes you want - live.
+2) Afterwards, run the *Remaster live system* script - so it will generate a SquashFS file for you.
+3) Edit the original ISO with IsoMaster or any other ISO editor. Overwrite **01-filesystem.squashfs** from the casper directory with your own generated SquashFS.
+4) Save the ISO, and that's it! You should now have a live cd of your own customized system.
+
+
 ***Release notes of version 1.2***<br />
 https://github.com/mbinnun/MBPUP/releases/tag/V1.2
 
