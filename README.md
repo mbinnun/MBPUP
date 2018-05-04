@@ -24,7 +24,7 @@ https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.is
 
 ---------------------------------------
 
-MBPUP-TVDESK - OS for streamers or office desktops
+MBPUP-TVDESK - OS for streamers and office desktops
 =
 
 Need additional desktop functionality?<br />
