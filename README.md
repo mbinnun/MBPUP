@@ -24,6 +24,22 @@ https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.is
 
 ---------------------------------------
 
+MBPUP-TVDESK - OS for streamers or office desktops
+=
+
+Need additional desktop functionality?<br />
+MBPUP-TVDESK includes extra tools, such as: LibreOffice, Gimp, VLC and KODI.
+
+Download MBPUP-TVDESK 32bit version 1.2 ISO image:
+-
+https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP32TVDESK-v1.2-20180503.iso
+
+Download MBPUP-TVDESK 64bit version 1.2 ISO image:
+-
+https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64TVDESK-v1.2-20180503.iso
+
+---------------------------------------
+
 MBPUP-VM - Portable virtualization distro
 =
 
