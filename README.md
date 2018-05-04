@@ -11,7 +11,7 @@ Another advantage of MBPUP is the ability to install a functional desktop "as is
 
 
 ***Remaster live and easily***<br />
-The live system of MBPUP is remasterable without touching the hard drive! All you need to do is:<br />
+The live system of MBPUP is remasterable even without touching the hard drive! All you need to do is:<br />
 1) Boot the live system, install packages and do any changes you want - live.
 2) Afterwards, run the *Remaster live system* script - so it will generate a SquashFS file for you.
 3) Edit the original ISO with IsoMaster or any other ISO editor. Overwrite **01-filesystem.squashfs** from the casper directory with your own generated SquashFS.
