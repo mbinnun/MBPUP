@@ -69,7 +69,7 @@ MBPUP-DEV - The ultimative linux distro for a developer
 MBPUP-DEV provides a pefect environment for the average developer.<br />
 It includes many programming tools and development IDEs: Eclipse, Android Studio, Core Linux Dev Tools (gcc, g++, python), Java (both OpenJDK and Oracle), Free Pascal Compiler, MonoDevelop, Git, NodeJS, Angular CLI, Visual Studio Code, Gimp (for graphical design) and a lot more.
 
-**Note:** The download file is big (about 4G), due to the many IDEs that are installed.
+**Note:** The download file is big (about 4G), due to the very large amount of tools that are installed.
 
 Download MBPUP-DEV version 1.2 ISO image:
 -
