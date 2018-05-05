@@ -61,6 +61,20 @@ Download MBPUP-VM version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64VM-v1.2-20180502.iso
 
+---------------------------------------
+
+MBPUP-DEV - The ultimative linux distro for a developer
+=
+
+MBPUP-DEV provides a pefect environment for the average developer.<br />
+It includes many programming tools and some development IDEs: The new Eclipse Oxygen, Android Studio, Core Linux Dev Tools (gcc, g++, python), Java (both OpenJDK and Oracle), Free Pascal Compiler, MonoDevelop, NodeJS, Angular CLI, Visual Studio Code, Gimp (for graphical design) and a lot more.
+
+**Note:** The download file is big (about 4G), due to the many IDEs that are installed.
+
+Download MBPUP-DEV version 1.2 ISO image:
+-
+https://drive.google.com/open?id=1rOuVbJezRIU2l_nc-Q_5_FuOVeWxjjwX
+
 ----------------------------------------
 
 Known issues:
