@@ -74,6 +74,7 @@ MBPUP-SRV integrates an OpenSSH service with a VNC server (for remote control on
 Download MBPUP-SRV version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64SRV-v1.2-20180506.iso
+
 ---------------------------------------
 
 MBPUP-DEV - The ultimative linux distro for a developer
