@@ -30,6 +30,8 @@ Download MBPUP 64bit version 1.2 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.iso
 
+<img src="https://github.com/mbinnun/MBPUP/blob/master/mbpup_screenshot.png" alt="MB-PUP screenshot" />
+
 ---------------------------------------
 
 MBPUP-TVDESK - OS for streamers and office desktops
