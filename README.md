@@ -21,6 +21,9 @@ The live system of MBPUP is remasterable even without touching the hard drive! A
 ***Release notes of version 1.2***<br />
 https://github.com/mbinnun/MBPUP/releases/tag/V1.2
 
+***It is very recommended to read the known issues before running the system***<br />
+<a href="#issues">Read known issues</a>
+
 
 Download MBPUP 32bit version 1.2 ISO image:
 -
