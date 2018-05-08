@@ -94,7 +94,7 @@ https://drive.google.com/open?id=1rOuVbJezRIU2l_nc-Q_5_FuOVeWxjjwX
 
 ----------------------------------------
 
-Known issues:
+<a name="issues"></a>Known issues:
 =
 On v1.2 release, sometimes PcManFM file manager crashes immediately after the user login.
 -
