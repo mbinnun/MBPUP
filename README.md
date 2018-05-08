@@ -102,6 +102,6 @@ On v1.2 release, sometimes PcManFM file manager crashes immediately after the us
 
 **Workaround:**<br />Use *Nautilus* as your primary file manager.
 
-On some occasions, after a standard installation to the hard drive - grub4dos does not find "/boot/vmlinuz" and startup failes!
+On some occasions, after a standard installation to the hard drive - grub4dos does not find "/boot/vmlinuz" and startup fails!
 -
 **Resolution:**<br />Press &lt;TAB&gt; to edit the grub entry before it boots and replace **/boot/vmlinuz** with **/boot/vmlinuz-4.15.0-20-generic** and it will boot successfully.<br />After the successful boot, run **sudo nano /ment.lst** from terminal and change this entry permanently.<br />Done, problem solved!
