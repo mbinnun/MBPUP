@@ -109,6 +109,6 @@ On some occasions, after a standard installation to the hard drive - grub4dos do
 -
 **Resolution:**<br />When grub4dos appears, press &lt;TAB&gt; to edit the grub entry just before it boots.<br />Replace **/boot/vmlinuz** with **/boot/vmlinuz-4.15.0-20-generic** on the "kernel" option, and it will boot successfully.<br />After the successful boot, run **sudo nano /ment.lst** from terminal and change this entry permanently.<br />Done, problem solved!
 
-On some occasions, when trying to run a standard installation from a USB flash drive - it says "could not find /mnt/sdb1" and the installation is not started.
+On some occasions, when trying to run a standard installation from a USB flash drive - it says "could not find /mnt/sdb1" and the installation does not start.
 -
 **Resolution:**<br />When booting from USB, when the isolinux menu appears press &lt;TAB&gt; to edit the menu entry just before it boots.<br />Remove **noauto** from the line and boot. The standard installation will run successfully this time.
