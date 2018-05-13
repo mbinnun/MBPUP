@@ -115,4 +115,5 @@ On some occasions, after a standard installation to the hard drive - grub4dos do
 
 On some occasions, when trying to run a standard installation from a USB flash drive - it says "could not find /mnt/sdb1" and the installation does not start.
 -
-**Resolution:**<br />When booting from USB, when the isolinux menu appears press &lt;TAB&gt; to edit the menu entry just before it boots.<br />Remove **noauto** from the line and boot. The standard installation will run successfully this time.
+**Resolution:**<br />When booting from USB, when the isolinux menu appears press &lt;TAB&gt; to edit the menu entry just before it boots.<br />Remove **noauto** from the line and boot. The standard installation will run successfully this time.<br /><br />
+***Note:*** Fixed on the ISOs of version 1.3.
