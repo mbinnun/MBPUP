@@ -117,3 +117,7 @@ On some occasions, when trying to run a standard installation from a USB flash d
 -
 **Resolution:**<br />When booting from USB, when the isolinux menu appears press &lt;TAB&gt; to edit the menu entry just before it boots.<br />Remove **noauto** from the line and boot. The standard installation will run successfully this time.<br /><br />
 ***Note:*** Fixed on the ISOs of version 1.3.
+
+Hey, where did all my mountable devices go on version 1.3?
+-
+**They did not.**<br />On version 1.3 they are pre-mounted by the root system.<br />You should find all mounted devices under **/mnt/**.
