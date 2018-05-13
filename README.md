@@ -52,7 +52,7 @@ https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64TVDESK-v1.3-20180
 
 Download MBPUP-TVDESK 32bit version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP32TVDESK-v1.2-20180512.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP32TVDESK-v1.3-20180512.iso
 
 ---------------------------------------
 
