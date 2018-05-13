@@ -94,9 +94,9 @@ All these tools are ready to run, of course, out of the box on the live system.
 
 **Note:** The download file is big (about 4G), due to the very large amount of tools that are installed.
 
-Download MBPUP-DEV version 1.2 ISO image:
+Download MBPUP-DEV version 1.3 ISO image:
 -
-https://drive.google.com/open?id=1rOuVbJezRIU2l_nc-Q_5_FuOVeWxjjwX
+https://drive.google.com/open?id=169JUTLmOBqK4Qq4PZuDD9hUv7mSPS1C4
 
 ----------------------------------------
 
