@@ -28,13 +28,13 @@ https://github.com/mbinnun/MBPUP/releases/tag/V1.2
 <a href="#issues">Read known issues</a>
 
 
-Download MBPUP 32bit version 1.3 ISO image:
--
-https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP32-v1.3-20180512.iso
-
 Download MBPUP 64bit version 1.3 ISO image:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64-v1.3-20180512.iso
+
+Download MBPUP 32bit version 1.3 ISO image:
+-
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP32-v1.3-20180512.iso
 
 <img src="https://github.com/mbinnun/MBPUP/blob/master/mbpup_screenshot.png" alt="MB-PUP screenshot" />
 
@@ -43,16 +43,16 @@ https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64-v1.3-20180512.is
 MBPUP-TVDESK - OS for streamers and office desktops
 =
 
-Need additional desktop functionality?<br />
-MBPUP-TVDESK includes some extra tools, such as: LibreOffice, Gimp, Google Chrome, VLC and KODI.
+Need additional desktop functionality? Looking for an ultimative OS for a streamer?<br />
+MBPUP-TVDESK includes some built in extra tools, such as: LibreOffice, Gimp, Google Chrome, VLC and KODI.
 
-Download MBPUP-TVDESK 32bit version 1.2 ISO image:
+Download MBPUP-TVDESK 64bit version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP32TVDESK-v1.2-20180503.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64TVDESK-v1.3-20180512.iso
 
-Download MBPUP-TVDESK 64bit version 1.2 ISO image:
+Download MBPUP-TVDESK 32bit version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64TVDESK-v1.2-20180503.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP32TVDESK-v1.2-20180512.iso
 
 ---------------------------------------
 
