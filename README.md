@@ -92,7 +92,7 @@ MBPUP-DEV provides a pefect environment for the average developer.<br />
 It includes many programming tools and development IDEs: Eclipse, Android Studio, Core Linux Dev Tools (gcc, g++, python), Java (both OpenJDK and Oracle), Free Pascal Compiler, MonoDevelop, Git, NodeJS, Angular CLI, Visual Studio Code, Gimp (for graphical design) and a lot more.<br />
 All these tools are ready to run, of course, out of the box on the live system.
 
-**Note:** The download file is big (about 4G), due to the very large amount of tools that are installed.
+**Note:** The download file is big (about 3 Gigabytes), due to the very large amount of tools that are installed.
 
 Download MBPUP-DEV version 1.3 ISO image:
 -
