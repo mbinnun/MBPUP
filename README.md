@@ -121,3 +121,8 @@ On some occasions, when trying to run a standard installation from a USB flash d
 Hey, where did all my mountable devices go on version 1.3?
 -
 **They did not.**<br />On version 1.3 they are pre-mounted by the root system.<br />You should find all mounted devices under **/mnt/**.
+
+After running the script that turns the standard installation into a "real Ubuntu", the swap partition does not automatically mount on boot any more.
+-
+Correct.<br />This is because turning the system into a "real ubuntu" removes the porteus boot, so mounting devices relies on /etc/fstab from now on.<br /><br />
+**Resolution:**<br />Run **gnome-disks** from terminal. When the GUI shows up, select the swap partition and on its settings menu click on **edit mount options**. On mount options, turn off the "Automatic Mount Options" switch and make sure the "Mount at startup" checkbox is checked. Click OK, then reboot. done, the swap partition will automatically mount.
