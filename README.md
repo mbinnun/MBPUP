@@ -56,7 +56,7 @@ https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP32TVDESK-v1.3-20180
 
 ---------------------------------------
 
-MBPUP-VM - Portable virtualization distro
+MBPUP-VM - Portable virtualization environment
 =
 
 Ever wanted to run a VM on a new machine without installing any additional software? Now you can!<br />
@@ -65,9 +65,9 @@ Just run the live system and you'll able to load any VM you like without any add
 
 **Note:** The kernel on this release is updated to 4.15.0-20 and linux-headers are installed.
 
-Download MBPUP-VM version 1.2 ISO image:
+Download MBPUP-VM version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64VM-v1.2-20180502.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64VM-v1.3-20180512.iso
 
 ---------------------------------------
 
