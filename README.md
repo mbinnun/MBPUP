@@ -79,9 +79,9 @@ MBPUP-SRV is coming with LAMP (Apache + MySQL + PHP) preinstalled.<br />
 Aside that, it contains: server administration GUI (WebMin), mailserver (Postfix + DoveCot), web mail GUI (RoundCube) and MySQL administration GUI (PhpMyAdmin) which all run out of the box.<br />
 MBPUP-SRV integrates an OpenSSH service with a VNC server (for remote control on the desktop mode).
 
-Download MBPUP-SRV version 1.2 ISO image:
+Download MBPUP-SRV version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64SRV-v1.2-20180506.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64SRV-v1.3-20180512.iso
 
 ---------------------------------------
 
