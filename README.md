@@ -102,7 +102,7 @@ https://drive.google.com/open?id=169JUTLmOBqK4Qq4PZuDD9hUv7mSPS1C4
 
 <a name="issues"></a>Known issues:
 =
-On startup, sometimes PcManFM file manager crashes immediately after the user login.
+On some occations, PcManFM file manager crashes immediately after the user login.
 -
 **Resolution:**<br />Simply run **sudo rm /var/crash/\*** from the terminal and reload PcManFM.<br />You're not supposed to experience additional crashes till the end of the session.
 
