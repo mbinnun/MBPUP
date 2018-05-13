@@ -127,3 +127,8 @@ After running the script that turns the standard installation into a "real Ubunt
 **Correct.**<br />This is because turning the system into a "real ubuntu" removes the porteus boot, so mounting devices will rely on /etc/fstab from now on.<br /><br />
 **Resolution:**<br />Run **gnome-disks** from terminal. When the GUI shows up, select the swap partition. On its settings menu click on **edit mount options**. On mount options, turn off the "Automatic Mount Options" switch and make sure the "Mount at startup" checkbox is checked. Click OK, then reboot.<br />
 Done, the swap partition will automatically mount.
+
+After a standard installation, booting from the hard drive is REALLY slow.
+-
+That happens if the *initrd* was not re-generated after the installation from some reason.<br />There's a script on the desktop that fixes the issue. Make sure to run it from a hard drive session only, and not from a live session.<br /><br />
+***Note:*** Do not run the script if you've already turned your standard installation into a "real Ubuntu".
