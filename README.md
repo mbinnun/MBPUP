@@ -18,6 +18,9 @@ The live system of MBPUP is remasterable even without touching the hard drive! A
 4) Save the ISO, and that's it! You should now have a live cd of your own customized system.
 
 
+***Release notes of version 1.3***<br />
+https://github.com/mbinnun/MBPUP/releases/tag/V1.3
+
 ***Release notes of version 1.2***<br />
 https://github.com/mbinnun/MBPUP/releases/tag/V1.2
 
@@ -25,13 +28,13 @@ https://github.com/mbinnun/MBPUP/releases/tag/V1.2
 <a href="#issues">Read known issues</a>
 
 
-Download MBPUP 32bit version 1.2 ISO image:
+Download MBPUP 32bit version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP32-v1.2-20180501.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP32-v1.3-20180512.iso
 
-Download MBPUP 64bit version 1.2 ISO image:
+Download MBPUP 64bit version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.2/MBPUP64-v1.2-20180502.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64-v1.3-20180512.iso
 
 <img src="https://github.com/mbinnun/MBPUP/blob/master/mbpup_screenshot.png" alt="MB-PUP screenshot" />
 
