@@ -131,4 +131,4 @@ Done, the swap partition will automatically mount.
 After a standard installation, booting from the hard drive is REALLY slow.
 -
 That happens if the *initrd* was not re-generated after the installation from some reason.<br />There's a script on the desktop that fixes the issue. Make sure to run it from a hard drive session only, and not from a live session.<br /><br />
-***Note:*** <u>Do not</u> run the script if you've already turned your standard installation into a "real Ubuntu".
+***Note:*** DO NOT run the script if you've already turned your standard installation into a "real Ubuntu".
