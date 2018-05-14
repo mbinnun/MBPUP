@@ -76,7 +76,7 @@ MBPUP-SRV - A webserver to-go
 
 MBPUP-SRV is a porable (but complete) live web server!<br />
 MBPUP-SRV is coming with LAMP (Apache + MySQL + PHP) preinstalled.<br />
-Aside that, it contains: server administration GUI (WebMin), mailserver (Postfix + DoveCot), web mail GUI (RoundCube) and MySQL administration GUI (PhpMyAdmin) which all run out of the box.<br />
+In addition, it also contains: server administration GUI (WebMin), mailserver (Postfix + DoveCot), web mail GUI (RoundCube) and MySQL administration GUI (PhpMyAdmin) which all run out of the box.<br />
 MBPUP-SRV integrates an OpenSSH service with a VNC server (for remote control on the desktop mode).
 
 Download MBPUP-SRV version 1.3 ISO image:
