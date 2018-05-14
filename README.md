@@ -61,7 +61,7 @@ MBPUP-VM - Portable virtualization environment
 
 Ever wanted to run a VM on a new machine without installing any additional software? Now you can!<br />
 MBPUP-VM is an MBPUP distro with embedded virtualization software such as VMware-Player, VirtualBox and QEMU.<br />
-Just run the live system and you'll able to load any VM you like without any additional installation.
+Just run the live system and you'll be able to load any VM you like without any additional installation.
 
 **Note:** The kernel on this release is updated to 4.15.0-20 and linux-headers are installed.
 
