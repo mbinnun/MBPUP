@@ -147,7 +147,7 @@ That happens if the *initrd* was not re-generated after the installation from so
 
 A newly created user invokes an annoying message on startup.
 -
-**Resolution:**<br />From terminal: **nano ~/.profile** -> comment the last last (with 'mesg') -> save -> done!<br />
+**Resolution:**<br />From terminal: **nano ~/.profile** -> comment out the last line (the one with 'mesg') -> save -> done!<br />
 The annoying message will not appear on the next login.
 
 Only on the Gnome version, I can't load the desktop mode as usual with 'service lightdm start'.
