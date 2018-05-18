@@ -145,7 +145,7 @@ After a standard installation, booting from the hard drive is REALLY slow.
 That happens if the *initrd* was not re-generated after the installation from some reason.<br />There's a script on the desktop that fixes the issue. Make sure to run it from a hard drive session only, and not from a live session.<br /><br />
 ***Note:*** DO NOT run the script if you've already turned your standard installation into a "real Ubuntu".
 
-Only on the Gnome version, I can't load the desktop as usual with 'service lightdm start'.
+Only on the Gnome version, I can't load the desktop mode as usual with 'service lightdm start'.
 -
 **Correct.**<br />The GDM-3 desktop manager replaces the LightDM manager (only) on the Gnome version.<br /><br />
 **Resolution:**<br />Run **service gdm3 start** instead, then login as "administrator" with the regular sudo password.
