@@ -152,4 +152,4 @@ Only on the Gnome version, I can't load the desktop mode as usual with 'service 
 
 On the Gnome version, a newly created user does not log in.
 -
-**Resolution:**<br />Try to use **Gnome Xorg** session instead of "Gnome". It should log in successfully without problems.
+**Resolution:**<br />Try choosing **Gnome Xorg** session type instead of "Gnome" on the GDM3 login screen.<br />It should log in successfully without problems.
