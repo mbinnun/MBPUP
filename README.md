@@ -60,6 +60,8 @@ MBPUP-TVDESK with Gnome Desktop
 Not familiar or unsatisfied with the LXDE environment?<br />
 This version of MBPUP-TVDESK is built with Gnome desktop and looks as same as the original Bionic Beaver release (Gnome 3, that reminds the Unity desktop).
 
+---------------------------------------
+
 Download MBPUP-TVDESK 64bit version 1.3 with Gnome desktop:
 -
 https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64TVDESK-v1.3-GNOME-20180517.iso
