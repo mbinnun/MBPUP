@@ -149,3 +149,7 @@ Only on the Gnome version, I can't load the desktop mode as usual with 'service 
 -
 **Correct.**<br />The GDM-3 desktop manager replaces the LightDM manager (only) on the Gnome version.<br /><br />
 **Resolution:**<br />Run **service gdm3 start** instead, then login as "administrator" with the regular sudo password.
+
+On the Gnome version, a newly created user does not login.
+-
+**Resolution:**<br />Try to use **Gnome Xorg** session instead of "Gnome". It should log in successfully with out problems.
