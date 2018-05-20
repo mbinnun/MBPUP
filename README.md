@@ -158,3 +158,8 @@ Only on the Gnome version, I can't load the desktop mode as usual with 'service 
 On the Gnome version, a newly created user does not log in.
 -
 **Resolution:**<br />Try choosing **Gnome Xorg** session type instead of "Gnome" on the GDM3 login screen.<br />It should log in successfully without problems.
+
+On the VM version, I can't remove the extension pack on virtuabox (when I to install a new one) and it shows me an error.
+-
+**Resolution:**<br />From terminal: **cd /usr/lib/virtualbox/ExtensionPacks/** and then **sudo rm -R Oracle_VM_VirtualBox_Extension_Pack** and then **sudo VBoxManage extpack cleanup**.<br />
+It should now remove the extension pack without problems.
