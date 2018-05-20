@@ -161,5 +161,8 @@ On the Gnome version, a newly created user does not log in.
 
 On the VM version, I can't remove the extension pack on virtuabox (when I try to install a new one) and it shows me an error.
 -
-**Resolution:**<br />From terminal: **cd /usr/lib/virtualbox/ExtensionPacks/** and then **sudo rm -R Oracle_VM_VirtualBox_Extension_Pack** and then **sudo VBoxManage extpack cleanup**.<br />
+**Resolution:**<br />From terminal, run the following commands:<br />
+**cd /usr/lib/virtualbox/ExtensionPacks/**<br />
+**sudo rm -R Oracle_VM_VirtualBox_Extension_Pack**<br />
+**sudo VBoxManage extpack cleanup**<br />
 It should now remove the extension pack without problems.
