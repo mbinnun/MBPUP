@@ -79,7 +79,7 @@ Just run the live system and you'll be able to load any VM you like without any 
 
 Download MBPUP-VM version 1.3 ISO image:
 -
-https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64VM-v1.3-20180512.iso
+https://github.com/mbinnun/MBPUP/releases/download/V1.3/MBPUP64VM-v1.3.1-20180520.iso
 
 ---------------------------------------
 
