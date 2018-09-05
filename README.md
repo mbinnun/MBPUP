@@ -1,4 +1,4 @@
-( * Also check my similar project: MBXUB ==> https://github.com/mbinnun/MBXUB )
+( * Also check my similar project: MBXUB ==> https://github.com/mbinnun/MBXUB based on Xubuntu)
 
 MBPUP Linux - remasterable live linux desktop - a fork of Bionic Dog (Ubuntu) 18.04
 =
